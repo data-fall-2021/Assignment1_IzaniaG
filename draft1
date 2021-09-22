@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title></title>
+
+<style>
+  h1 {
+  font-family: sans-serif;
+  }
+  body {
+  background-color:
+  font-family: Georgia, serif;
+  }
+  </style>
+
+  </head>
+  <h1> Statistics on the Affect of Domestic Violence on Children </h1>
+  <p> September 23 2021 By: Izania Gonzalez </p>
+  <body>
+
+    <figure> <img src="house.png" alt="Simplistic image of a house in black and white"> <figcaption style="color: gray;"> More than 5 million children were exposed to intimate partner violence in 1 year </figcaption> </figure>
+
+    <figure> <img src="" alt="" <figcaption style="color: gray;> 1 in 3 children who witness domestic violence were also child abuse victims </figcaption> </figure>
+
+  <figure> <img src="fighting.png" alt="Simplstic fist depicted with striations surrounding it to indicate it is punching" <figcaption style="color: gray;> Children who witness intimate partner violence growing up are 3 times as likely as their peers to engage in violent behavior </figcaption> </figure>
+
+  <figure> <img src="health.png" alt="Simplistic design depicts an inner clock with an outer circle showing a pill, person, ambulance, and stethoscope in clockwise motion" <figcaption style="color: gray;> Children who witness incidents of deomstic violence are at a greater risk of serious adult health problems including obesity, cancer, heart disease, depression, substance abuse, tobacco use and unintended pregnanices than peers who did not witness domestic violence </figcaption> </figure>
+
+  <a href="https://assets.speakcdn.com/assets/2497/children_and_dv.pdf"> To learn more about the impact of domestic violence on children read the National Coalition Against Domestic Violence's fact sheet </a>
+
+  </body>
+  </html>
+  
